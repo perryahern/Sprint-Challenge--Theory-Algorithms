@@ -1,5 +1,5 @@
 # Exercise 1:
-a) O(1) since, regardless of the size of n, it will only run once.
+a) O(1) or O(n) since it will only run a limited number of times.
 
 b) O(log n) since it is dividing n by a number greater than 1 and discarding large chunks of the n set with each iteration.
 
